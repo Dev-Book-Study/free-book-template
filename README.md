@@ -48,6 +48,6 @@ e.g. `ADD : [Clean Code] 3장(함수) - 발표 자료 추가`
 | 공유자 | 공유 주제 | 공유 날짜 |
 |:---:|:---:|:---:|
 |<a href="https://github.com/dev-splin" target="_blank"><img src="https://github.com/dev-splin.png" width="100"/><a/>|-|-|
-|[<a href="https://github.com/LEE010" target="_blank"><img src="https://github.com/LEE010.png" width="100"/><a/>|-|-|
+|<a href="https://github.com/LEE010" target="_blank"><img src="https://github.com/LEE010.png" width="100"/><a/>|-|-|
 |<a href="https://github.com/developyoun" target="_blank"><img src="https://github.com/developyoun.png" width="100"/><a/>|-|-|
 |<a href="https://github.com/jhwlim" target="_blank"><img src="https://github.com/jhwlim.png" width="100"/><a/>|-|-|
